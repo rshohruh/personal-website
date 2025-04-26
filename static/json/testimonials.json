@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Zarif Qodirov",
+    "avatar": "/static/images/avatar-1.png",
+    "date": "2025-04-20",
+    "text": "I recently attended an amazing tech conference about AI development. The speakers were top-notch, and I learned so much about the future of screen technologies."
+  },
+  {
+    "name": "Zarnigor",
+    "avatar": "/static/images/avatar-2.png",
+    "date": "2025-04-21",
+    "text": "We successfully completed our backend project last week! It was a challenging but rewarding experience, especially managing Docker and database migrations."
+  },
+  {
+    "name": "Maria",
+    "avatar": "/static/images/avatar-3.png",
+    "date": "2025-04-22",
+    "text": "Just started preparing for ICPC regionals with my team. Competitive programming really pushes you to think fast and optimize under pressure!"
+  },
+  {
+    "name": "Sunatillo Hojiyev",
+    "avatar": "/static/images/avatar-4.png",
+    "date": "2025-04-23",
+    "text": "I'm diving deeper into FastAPI and Go these days. Building lightweight, scalable APIs is something I want to master before summer internships."
+  }
+]
