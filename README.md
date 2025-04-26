@@ -69,23 +69,6 @@ Start the development server with:
 python manage.py runserver
 ```
 
-Open your browser and navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to view the website.
-
-## API Endpoints
-
-- **Projects:** [http://127.0.0.1:8000/api/projects/](http://127.0.0.1:8000/api/projects/)
-- **Certificates:** [http://127.0.0.1:8000/api/certificates/](http://127.0.0.1:8000/api/certificates/)
-- **Blogs:** [http://127.0.0.1:8000/api/blogs/](http://127.0.0.1:8000/api/blogs/)
-- **Contact:** [http://127.0.0.1:8000/contact/](http://127.0.0.1:8000/contact/)
-
-## Running Tests
-
-To run the tests, execute:
-
-```bash
-python manage.py test
-```
-
 ## Contributions
 
 Contributions and improvements are welcome! If you encounter any issues or have suggestions, please open an issue or submit a pull request.
