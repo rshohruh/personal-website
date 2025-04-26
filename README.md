@@ -24,7 +24,7 @@ A personal portfolio website built with Django and Django REST Framework that sh
 
    ```bash
    git clone https://github.com/rshohruh/personal-website.git
-   cd your-repo
+   cd personal-website
    ```
 
 2. **Create a Virtual Environment:**
